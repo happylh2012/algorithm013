@@ -22,3 +22,24 @@
 ## 注意事项
 
  如果对 Git 和 GitHub 不太了解，请参考 [Git 官方文档](https://git-scm.com/book/zh/v2) 或者极客时间的[《玩转 Git 三剑客》](https://time.geekbang.org/course/intro/145)视频课程。
+
+Week 1 
+时间:2020/7/27~2020/8/2
+周一:
+用add first 或  add last 这套新的API改写Deque的代码
+删除排序数组中的重复项
+周二：
+旋转数组
+周三：
+分析Queue和Priority Queue源码
+合并两个有序链表
+合并两个有序数组
+周四：
+两数之和
+周五:
+设计循环双端队列
+周六：
+移动零
+接雨水
+周日:
+加一
